@@ -1,0 +1,5 @@
+.vscode/settings.json
+
+house-prices-advanced-regression-techniques/data/sample_submission.csv
+house-prices-advanced-regression-techniques/data/test.csv
+house-prices-advanced-regression-techniques/data/train.csv
